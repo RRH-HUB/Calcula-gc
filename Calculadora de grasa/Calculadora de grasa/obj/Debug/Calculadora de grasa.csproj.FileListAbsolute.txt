@@ -1,0 +1,10 @@
+C:\Users\faliw\OneDrive\Escritorio\Calculadora de grasa\Calculadora de grasa\Calculadora de grasa\bin\Debug\Calculadora de grasa.exe.config
+C:\Users\faliw\OneDrive\Escritorio\Calculadora de grasa\Calculadora de grasa\Calculadora de grasa\bin\Debug\Calculadora de grasa.exe
+C:\Users\faliw\OneDrive\Escritorio\Calculadora de grasa\Calculadora de grasa\Calculadora de grasa\bin\Debug\Calculadora de grasa.pdb
+C:\Users\faliw\OneDrive\Escritorio\Calculadora de grasa\Calculadora de grasa\Calculadora de grasa\obj\Debug\Calculadora de grasa.csprojAssemblyReference.cache
+C:\Users\faliw\OneDrive\Escritorio\Calculadora de grasa\Calculadora de grasa\Calculadora de grasa\obj\Debug\Calculadora_de_grasa.Form1.resources
+C:\Users\faliw\OneDrive\Escritorio\Calculadora de grasa\Calculadora de grasa\Calculadora de grasa\obj\Debug\Calculadora_de_grasa.Properties.Resources.resources
+C:\Users\faliw\OneDrive\Escritorio\Calculadora de grasa\Calculadora de grasa\Calculadora de grasa\obj\Debug\Calculadora de grasa.csproj.GenerateResource.cache
+C:\Users\faliw\OneDrive\Escritorio\Calculadora de grasa\Calculadora de grasa\Calculadora de grasa\obj\Debug\Calculadora de grasa.csproj.CoreCompileInputs.cache
+C:\Users\faliw\OneDrive\Escritorio\Calculadora de grasa\Calculadora de grasa\Calculadora de grasa\obj\Debug\Calculadora de grasa.exe
+C:\Users\faliw\OneDrive\Escritorio\Calculadora de grasa\Calculadora de grasa\Calculadora de grasa\obj\Debug\Calculadora de grasa.pdb

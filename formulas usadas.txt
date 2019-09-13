@@ -1,0 +1,23 @@
+Índice de Masa Corporal (IMC): Lo calculamos dividiendo nuestro peso entre el cuadrado de nuestra altura en metros.
+
+IMC= Peso (kg) / ( Estatura (m)  x Estatura (m) 
+
+
+
+La fórmula de Deurenberg para el %gc
+
+
+ %GC (% Grasa corporal) = 1,2 x (IMC) + 0,23 x (Nuestra edad) – 10,8 x (sexo) – 5,4
+
+mujer=0
+hombre=1
+
+Rangos de grasa corporal y su clasificación entre 30 y 45 años.
+
+ 
+	Mujeres (%GC)        Varones (%GC)
+Normal    24 - 30                12 – 20
+Límite     31 - 33               21 – 25
+Obesidad     > 33                 > 25
+
+
