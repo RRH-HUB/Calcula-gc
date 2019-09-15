@@ -21,3 +21,15 @@ Límite     31 - 33               21 – 25
 Obesidad     > 33                 > 25
 
 
+Metodo de la marina americana (cinta metrica)
+En la meidas aprieta la cinta lo justo dependiendo de la cantidad de ropa que lleves,es a consejable
+tomar varias medidas y ver el numero medio, sin calculos solo algo logico este metodo se basa en su 
+precision y simpleza, las medidas deberan ser pasadas a pulgadas
+altura en cm
+medida de la cintura a la altura del o,mbligo despues de expulsar el aire, sin sacar ni meter barriga
+medida del cuello justo debajo de la nuez o donde estaria
+!!Mujersolo¡¡ medir las caderas en la parte mas ancha posible
+-------formula para hombres---------
+%g c=86.010*log10(cintura-cuello)-70.041*log10(altura)+36.76
+-------formula para mujeres--------
+%gc=163.205*log10(cintura+cadera-cuello)-97.684*log10(altura)-78.387
